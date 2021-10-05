@@ -57,3 +57,6 @@ strong {
     color: darkgreen;
     background-color: darkorchid;
   }
+  .text-big {
+    font-size: 30px;
+  }
