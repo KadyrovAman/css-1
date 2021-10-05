@@ -22,3 +22,18 @@ strong {
     color:green;
     background-color: lightgray;
   }
+  #example-1 {
+    color:green;
+  }
+  #example-2 {
+    color: black
+  }
+  #example-3 {
+    color: red;
+  }
+  #example-4 {
+    color: lime;
+  }
+  #example-5 {
+    color: olive;
+  }
