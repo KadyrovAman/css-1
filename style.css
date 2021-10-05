@@ -41,3 +41,19 @@ strong {
     color: orchid;
     background-color: orchid;
   }
+  .text-white {
+    color: tan;
+    background-color: yellow;
+  }
+  .text-black {
+    color: brown;
+    background-color: cornsilk;
+  }
+  .text-blue {
+    color: crimson;
+    background-color: cyan;
+  }
+  .text-red {
+    color: darkgreen;
+    background-color: darkorchid;
+  }
