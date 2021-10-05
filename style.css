@@ -3,9 +3,8 @@ h1 {
   background-color:blue
 }
 ul {
-  colore: blue;
-  background-color: red:
-}
+  color: blue;
+  }
 p {
   color: brown;
   background-color: rgb(255, 255, 255);
@@ -59,4 +58,7 @@ strong {
   }
   .text-big {
     font-size: 30px;
+  }
+  .bg-purple {
+    background-color: rgb(56, 211, 190);
   }
